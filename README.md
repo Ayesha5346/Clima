@@ -1,10 +1,10 @@
 A weather app created in flutter to fetch live web data from open weather map.
 It features glass UI, and API use to achieve the task at hand.
-##Packges Used:
+## Packges Used:
   https://pub.dev/packages/geolocator
   https://pub.dev/packages/http
   https://pub.dev/packages/glassmorphism
-##Features:
+## Features:
   The app upon load asks user permission to access location and displays the current weather.
   From the location button on top-right one can give a city name to fetch any city's current data.
   The button on top-left then can be used to re-access your current data.
